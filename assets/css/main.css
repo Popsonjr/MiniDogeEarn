@@ -13,6 +13,7 @@ body {
   color: #65677E;
   overflow-x: hidden;
   background: #F4F7FC;
+  width: 100vw;
 }
 
 * {
